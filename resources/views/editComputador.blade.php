@@ -10,8 +10,8 @@
                 <div class="col-lg-12">
                     <div class="card">
                         <div class="card-body">
-                        @extends('layouts/plantilla')
-@section('contenido')
+                        
+
 <div class="row mt-3">
     <div class="col-md-6 offset-md-3">
         <div class="card">
@@ -66,7 +66,7 @@
     </div>
 </div>
 
-@endsection
+
                         </div>
                     </div>
                 </div>
