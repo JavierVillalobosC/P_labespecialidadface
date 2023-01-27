@@ -33,3 +33,6 @@ Route::group(['middleware' => ['auth']], function(){
     Route::resource('usuarios', UsuarioController::class);
     Route::resource('blogs', BlogController::class);
 });
+
+Route::resource('estados', App\Http\Controllers\EstadosController::class);
+Route::resource('computadores', App\Http\Controllers\ComputadoresController::class);
