@@ -81,7 +81,7 @@ a:not(.btn-social-icon):not(.btn-social):not(.page-link) .fab {
 }
 
 .bg-primary {
-    background-color: #6777ef !important;
+    background-color: #2339da !important;
 }
 
 .bg-secondary {
@@ -1402,7 +1402,7 @@ table tr:hover .table-links {
 
 /* 3.9 Nav */
 .nav-tabs .nav-item .nav-link {
-    color: #6777ef;
+    color: #2a3fe6;
 }
 
 .nav-tabs .nav-item .nav-link.active {
@@ -1438,7 +1438,7 @@ table tr:hover .table-links {
 .nav-pills .nav-item .nav-link.active {
     box-shadow: 0 2px 6px #acb5f6;
     color: #fff;
-    background-color: #6777ef;
+    background-color: #2a41ea;
 }
 
 .nav-pills .nav-item .nav-link .badge {
@@ -2413,11 +2413,11 @@ h6 .badge {
 
     .nav-collapse .navbar-nav .nav-item .nav-link:hover {
         background-color: #fcfcfd;
-        color: #6777ef;
+        color: #2d42e6;
     }
 
     .nav-collapse .navbar-nav .nav-item:focus > a, .nav-collapse .navbar-nav .nav-item.active > a {
-        background-color: #6777ef;
+        background-color: #1e33d0;
         color: #fff;
     }
 
@@ -3671,7 +3671,7 @@ body.layout-3 .navbar.navbar-secondary {
 }
 
 body.layout-3 .navbar.navbar-secondary .navbar-nav > .nav-item.active > .nav-link {
-    color: #6777ef;
+    color: #283dde;
 }
 
 body.layout-3 .navbar.navbar-secondary .navbar-nav > .nav-item.active > .nav-link:before {
@@ -3724,7 +3724,7 @@ body.layout-3 .navbar.navbar-secondary .navbar-nav > .nav-item > .nav-link:befor
     right: initial;
     bottom: 0;
     height: 2px;
-    background-color: #6777ef;
+    background-color: #3247ea;
     transition: all .5s;
 }
 
