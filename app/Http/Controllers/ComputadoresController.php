@@ -24,7 +24,7 @@ class ComputadoresController extends Controller
 
     public function store(Request $request)
     {
-        $computador = new Computadoreses($request ->input());
+        $computador = new Computadores($request ->input());
         $computador->saveOrFail();
         return redirect('computadores');
     }
